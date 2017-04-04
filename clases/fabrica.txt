@@ -1,0 +1,6 @@
+Nombre: Ana Alfaro<br>Edad: 12<br>Idioma: Ingles<br>Legajo: 1<br>Sueldo Bruto: 151<br>Sueldo Neto:  <br>
+Nombre: Matias Iniguez<br>Edad: 15<br>Idioma: Frances<br>Legajo: 2<br>Sueldo Bruto: 850<br>Sueldo Neto:  <br>
+Nombre: Carolina Conde<br>Edad: 18<br>Idioma: Latino<br>Legajo: 3<br>Sueldo Bruto: 954<br>Sueldo Neto:  <br>
+Nombre: Ana Alfaro<br>Edad: 12<br>Idioma: Ingles<br>Legajo: 1<br>Sueldo Bruto: 151<br>Sueldo Neto:  <br>
+Nombre: Matias Iniguez<br>Edad: 15<br>Idioma: Frances<br>Legajo: 2<br>Sueldo Bruto: 850<br>Sueldo Neto:  <br>
+Nombre: Carolina Conde<br>Edad: 18<br>Idioma: Latino<br>Legajo: 3<br>Sueldo Bruto: 954<br>Sueldo Neto:  <br>

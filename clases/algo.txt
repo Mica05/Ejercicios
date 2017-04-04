@@ -1,0 +1,4 @@
+1-Guardar array en archivo _Transformar obj string separador
+_GUardar un obj por renglon
+2- Leer array en archivo _Lerr renglon por renglon_Utilizar explode
+_Crear obj_Agregar el obj al array 
